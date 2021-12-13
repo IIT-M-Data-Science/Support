@@ -11,10 +11,17 @@ body:
     validations:
       required: true
   - type: input
-    id: discordname
+    id: studentemail
     attributes:
       label: Student Email ID
       placeholder: Insert your Student Email ID here
+    validations:
+      required: true
+  - type: input
+    id: githubname
+    attributes:
+      label: GitHub Username
+      placeholder: Insert your github username here
     validations:
       required: true
   - type: textarea
