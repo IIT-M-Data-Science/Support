@@ -1,0 +1,26 @@
+name: Invitation to the GitHub community of IIT Madras Data Science
+description: I would like to be part of this community
+title: "Please invite me to the GitHub Community Organization"
+labels: [Invitation]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Insert your name here
+    validations:
+      required: true
+  - type: input
+    id: discordname
+    attributes:
+      label: Student Email ID
+      placeholder: Insert your Student Email ID here
+    validations:
+      required: true
+  - type: textarea
+    id: Additional
+    attributes:
+      label: Additional Context
+      description: What do you like about this community/Why do you want to join?
+    validations:
+      required: true
