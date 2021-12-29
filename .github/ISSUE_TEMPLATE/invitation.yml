@@ -1,7 +1,7 @@
 name: Invitation to the GitHub community of IIT Madras Data Science
 description: I would like to be part of this community
 title: "Please invite me to the GitHub Community Organization"
-labels: [Invitation]
+labels: ["community invite"]
 body:
   - type: input
     id: name
