@@ -17,13 +17,6 @@ body:
       placeholder: Insert your Student Email ID here
     validations:
       required: true
-  - type: input
-    id: githubname
-    attributes:
-      label: GitHub Username
-      placeholder: Insert your github username here
-    validations:
-      required: true
   - type: textarea
     id: Additional
     attributes:
