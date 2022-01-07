@@ -26,3 +26,5 @@ body:
       placeholder: Please provide the Job Description here. Use HTML to style instead of Markdown. Please include your contact details too.
     validations:
       required: true
+
+assignees: blurrydev
